@@ -289,7 +289,7 @@ footer {
 	.banner {
 	background-color: #000000;
 	background-image: none;
-	height: 200px;
+	height: auto;
 	}
 	.parallax {
 	text-align: center;
